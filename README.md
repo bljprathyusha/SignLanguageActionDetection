@@ -1,7 +1,8 @@
 ## Sample Results
 ![Screenshot 2024-03-06 232158](https://github.com/bljprathyusha/SignLanguageActionDetection/assets/95026072/a2e1a5d4-952f-49eb-aa48-ff93cb02eb14)
 
-![Screenshot 2024-03-06 232532](https://github.com/bljprathyusha/SignLanguageActionDetection/assets/95026072/73eb2b3e-6767-45fb-baee-a43e12c2cf65)
+
+![Screenshot 2024-03-06 232509](https://github.com/bljprathyusha/SignLanguageActionDetection/assets/95026072/35375094-0455-47ff-ba85-d4a89a4c14fb)
 
 ![Screenshot 2024-03-06 232725](https://github.com/bljprathyusha/SignLanguageActionDetection/assets/95026072/bbc5ab84-ffc6-4c07-9d1e-a9128a72dabc)
 
